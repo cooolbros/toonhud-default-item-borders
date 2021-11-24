@@ -6,8 +6,8 @@ A HUD modification for ToonHUD that replaces the item quality borders with TF2's
 
 ### Installation
 
-1. Download either the [Soft Corners](src/soft_corners/toonhud_default_item_borders.res) or [Hard Corners](src/hard_corners/toonhud_default_item_borders.res) .res file
-2. Move the .res file to `toonhud/resource/clientscheme/`
+1. Download either the [Soft Corners](https://raw.githubusercontent.com/cooolbros/toonhud-default-item-borders/main/src/soft_corners/toonhud_default_item_borders.res) or [Hard Corners](https://raw.githubusercontent.com/cooolbros/toonhud-default-item-borders/main/src/hard_corners/toonhud_default_item_borders.res) .res file
+2. Move the .res file to `toonhud/resource/`
 3. Insert
 
 ```#base "toonhud_default_item_borders.res"```
