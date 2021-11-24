@@ -20,12 +20,12 @@ at the top of `toonhud/resource/clientscheme.res`
 
 ![Loadout Colours Soft Corners](screenshots/soft_corners_loadout_colour.png)
 ![Backpack Colours Soft Corners](screenshots/soft_corners_backpack_colour.png)
-![Loadout Grey Soft Corners](screenshots/soft_corners_backpack_colour.png)
+![Loadout Grey Soft Corners](screenshots/soft_corners_loadout_grey.png)
 ![Backpack Grey Soft Corners](screenshots/soft_corners_backpack_grey.png)
 
 **Hard Corners**
 
 ![Loadout Colours Hard Corners](screenshots/hard_corners_loadout_colour.png)
 ![Backpack Colours Hard Corners](screenshots/hard_corners_backpack_colour.png)
-![Loadout Grey Hard Corners](screenshots/hard_corners_backpack_colour.png)
+![Loadout Grey Hard Corners](screenshots/hard_corners_loadout_grey.png)
 ![Backpack Grey Hard Corners](screenshots/hard_corners_backpack_grey.png)
